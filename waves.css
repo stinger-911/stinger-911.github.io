@@ -66,21 +66,21 @@ footer{height:auto; border:1px solid;
 #pictures{height: 350px; width: auto;}
 
 #window{height:300px; width:500px; border:2px;
-       background-image:url("images/refl.jpg");
+       background-image:url("refl.jpg");
        background-size:100% 100%;
        background-repeat:no-repeat;
        float: left;
        }
 
 #window1{height:300px; width:530px; border:2px;
-        background-image:url("images/reflection.png");
+        background-image:url("reflection.png");
         background-size:100% 100%;
         background-repeat:no-repeat;
         float: right;
       }
 
 #window2{height:200px; width:430px; border:2px;
-        background-image:url("images/rainbow.png");
+        background-image:url("rainbow.png");
         background-size:100% 100%;
         background-repeat:no-repeat;
         margin-left: auto;
@@ -90,7 +90,7 @@ footer{height:auto; border:1px solid;
 #pictures1{height: 200px; width: auto;}
 
 #window3{height:200px; width:430px; border:2px;
-        background-image:url("images/diffrac.png");
+        background-image:url("diffrac.png");
         background-size:100% 100%;
         background-repeat:no-repeat;
         margin-left: auto;
@@ -100,7 +100,7 @@ footer{height:auto; border:1px solid;
 #pictures2{height: 200px; width: auto;}
 
 #window4{height:200px; width:430px; border:2px;
-        background-image:url("images/coninter.png");
+        background-image:url("coninter.png");
         background-size:100% 100%;
         background-repeat:no-repeat;
         margin-left: auto;
@@ -110,7 +110,7 @@ footer{height:auto; border:1px solid;
 #pictures3{height: 200px; width: auto;}
 
 #window5{height:200px; width:430px; border:2px;
-        background-image:url("images/destrucinter.png");
+        background-image:url("destrucinter.png");
         background-size:100% 100%;
         background-repeat:no-repeat;
         margin-left: auto;
@@ -120,7 +120,7 @@ footer{height:auto; border:1px solid;
 #pictures4{height: 200px; width: auto;}
 
 #window6{height:250px; width:480px; border:2px;
-        background-image:url("images/doppler.png");
+        background-image:url("doppler.png");
         background-size:100% 100%;
         background-repeat:no-repeat;
         margin-left: auto;
@@ -130,7 +130,7 @@ footer{height:auto; border:1px solid;
 #pictures5{height: 200px; width: auto;}
 
 #window7{height:230px; width:480px; border:2px;
-        background-image:url("images/resonance.png");
+        background-image:url("resonance.png");
         background-size:100% 100%;
         background-repeat:no-repeat;
         margin-left: auto;
